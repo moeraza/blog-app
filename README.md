@@ -2,6 +2,8 @@
 
 A modern UI web app to write, edit, update and delete blog posts.
 
+![Video of blog app](documentation/screenCap.gif)
+
 ## What I Learnt
 
 * How to use semanticUI framework for design purposes
