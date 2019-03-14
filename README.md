@@ -1,4 +1,4 @@
-# A Blog Web App
+# A Modern Blog App
 
 A modern UI web app to write, edit, update and delete blog posts.
 
